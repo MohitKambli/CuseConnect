@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+    <item
+        android:id="@+id/grievances"
+        android:textColor="@color/white"
+        android:title="@string/grievances" />
+    <item
+        android:id="@+id/events"
+        android:textColor="@color/white"
+        android:title="@string/events" />
+    <item
+        android:id="@+id/restaurants"
+        android:textColor="@color/white"
+        android:title="@string/restaurants" />
+</menu>
