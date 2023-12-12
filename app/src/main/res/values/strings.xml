@@ -1,3 +1,46 @@
 <resources>
     <string name="app_name">CuseConnect</string>
+    <string name="grievances">Grievances</string>
+    <string name="events">Events</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="search">Search</string>
+    <string name="email">Enter Email</string>
+    <string name="password">Enter Password</string>
+    <string name="login">LOGIN</string>
+    <string name="create_account">Create Account</string>
+    <string name="create_new_account">CREATE ACCOUNT</string>
+    <string name="signup">SIGN UP</string>
+    <string name="already_registered">ALREADY REGISTERED</string>
+    <string name="suid">Enter SUID</string>
+    <string name="first_name">Enter First Name</string>
+    <string name="last_name">Enter Last Name</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="sort_by_name">Name</string>
+    <string name="sort_date_asc">Sort By Date Ascending</string>
+    <string name="sort_date_desc">Sort By Date Descending</string>
+    <string-array name="sort_options">
+        <item>Sorting Options</item>
+        <item>Sort By Name Ascending</item>
+        <item>Sort By Name Descending</item>
+        <item>@string/sort_date_asc</item>
+        <item>@string/sort_date_desc</item>
+    </string-array>
+
+    <string-array name="sort_options_restaurants">
+        <item>Sorting Options</item>
+        <item>Sort By Name Ascending</item>
+        <item>Sort By Name Descending</item>
+        <item>Sort By Rating Ascending</item>
+        <item>Sort By Rating Descending</item>
+    </string-array>
+
+    <string-array name="price_filter_options">
+        <item>Any Price</item>
+        <item>Under $50</item>
+        <item>$50 to $100</item>
+        <item>$100 to $150</item>
+        <item>Over $150</item>
+    </string-array>
 </resources>

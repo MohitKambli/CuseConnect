@@ -1,0 +1,21 @@
+<!-- res/drawable/fab_highlighted_border.xml -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Background circle for the FAB -->
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="@android:color/white" />
+        </shape>
+    </item>
+
+    <!-- Border for the FAB -->
+    <item android:right="1dp" android:left="1dp" android:top="1dp" android:bottom="1dp">
+        <shape android:shape="oval">
+            <solid android:color="@android:color/transparent" />
+            <stroke
+                android:color="@color/black"
+            android:width="2dp" />
+        </shape>
+    </item>
+
+</layer-list>

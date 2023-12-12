@@ -1,0 +1,28 @@
+<!-- Inside res/layout/popup_feedback.xml -->
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@drawable/popup_background">
+
+    <TextView
+        android:id="@+id/popupFeedbackTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginBottom="16dp"
+        android:textSize="16sp"
+        android:textColor="@android:color/black" />
+
+    <Button
+        android:id="@+id/closePopupButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="OK"
+        android:textColor="@color/white"
+        android:gravity="center_horizontal"
+        android:layout_gravity="center_horizontal"/>
+</LinearLayout>

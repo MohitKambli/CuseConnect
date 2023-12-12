@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="16dp"
+        android:background="@color/background_color">
+
+        <ImageView
+            android:id="@+id/eventImageView"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="centerCrop"
+            android:contentDescription="Image"
+            android:layout_marginBottom="16dp"/>
+
+        <TextView
+            style="@style/EventNameText"
+            android:id="@+id/eventNameTextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"/>
+
+        <TextView
+            style="@style/EventBodyText"
+            android:id="@+id/eventInfoTextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="8dp"/>
+
+        <TextView
+            style="@style/EventSubText"
+            android:id="@+id/eventPriceRangeTextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="8dp"
+            android:gravity="center_horizontal"
+            android:textStyle="bold"/>
+
+        <TextView
+            style="@style/EventSubText"
+            android:id="@+id/eventDateTextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="8dp"
+            android:gravity="center_horizontal"
+            android:textStyle="bold"/>
+
+        <TextView
+            style="@style/EventSubText"
+            android:id="@+id/eventStartTimeTextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="8dp"
+            android:gravity="center_horizontal"
+            android:textStyle="bold"/>
+
+        <androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            app:cardCornerRadius="8dp"
+            app:cardElevation="4dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="16dp">
+
+                <TextView
+                    android:id="@+id/venueAddressLabel"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Venue Address"
+                    android:textSize="18sp"
+                    android:gravity="center_horizontal"
+                    android:textStyle="bold"
+                    />
+
+
+                <TextView
+                    android:id="@+id/venueNameTextView"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="16sp"
+                    android:gravity="center_horizontal"/>
+
+                <TextView
+                    android:id="@+id/venueAddressTextView"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="16sp"
+                    android:paddingBottom="16dp"
+                    android:gravity="center_horizontal"/>
+
+                <!-- Map Section -->
+                <com.google.android.gms.maps.MapView
+                    android:id="@+id/mapView"
+                    android:layout_width="match_parent"
+                    android:layout_height="200dp"
+                    android:layout_marginTop="8dp"
+                    android:layout_marginBottom="16dp" />
+            </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+
+        <Button
+            android:id="@+id/buyTicketsButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Buy Tickets"
+            android:layout_marginTop="16dp"
+            android:layout_marginBottom="16dp"
+            android:background="@drawable/rounded_button"
+            android:textColor="@color/white"/>
+
+    </LinearLayout>
+</ScrollView>

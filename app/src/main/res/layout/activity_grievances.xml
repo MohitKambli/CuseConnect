@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.drawerlayout.widget.DrawerLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/drawer_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    android:background="@color/dark_gray"
+    tools:openDrawer="start">
+    <FrameLayout
+        android:id="@+id/recyclerViewLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:gravity="center"
+            android:background="@color/peach">
+
+            <androidx.appcompat.widget.Toolbar
+                android:id="@+id/toolbar"
+                android:layout_width="match_parent"
+                android:layout_height="?attr/actionBarSize"
+                app:titleTextColor="@color/white"
+                android:background="@color/dark_gray">
+
+                <!-- TextView for the toolbar title -->
+<!--                <TextView-->
+<!--                    android:id="@+id/toolbarTitle"-->
+<!--                    android:layout_width="0dp"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:text="@string/grievances"-->
+<!--                    app:title="@string/grievances"-->
+<!--                    android:layout_marginStart="15dp"-->
+<!--                    android:layout_marginEnd="15dp"-->
+<!--                    android:textColor="@android:color/white"-->
+<!--                    android:textSize="18sp" />-->
+
+                <!-- ImageView for the user icon -->
+                <ImageView
+                    android:id="@+id/userIcon"
+                    android:layout_width="?attr/actionBarSize"
+                    android:layout_height="?attr/actionBarSize"
+                    android:layout_gravity="end"
+                    android:layout_marginStart="15dp"
+                    android:layout_marginEnd="15dp"
+                    android:clickable="true"
+                    android:focusable="true"
+                    android:src="@drawable/login_icon" />
+            </androidx.appcompat.widget.Toolbar>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1">
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/recyclerView"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" />
+            </LinearLayout>
+        </LinearLayout>
+        <!-- Your layout file -->
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/fabAddGrievance"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|end"
+            android:layout_margin="16dp"
+            app:srcCompat="@drawable/baseline_add_24"
+            app:elevation="6dp"
+            app:fabSize="normal"
+            android:background="@drawable/fab_highlighted_border"
+        />
+
+    </FrameLayout>
+    <com.google.android.material.navigation.NavigationView
+        android:id="@+id/nav_view"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_gravity="start"
+        android:fitsSystemWindows="true"
+        app:itemIconTint="@color/white"
+        app:headerLayout="@layout/nav_header_main"
+        android:background="@color/dark_gray"
+        app:menu="@menu/menu_drawer"
+        app:itemTextColor="@color/white"/>
+</androidx.drawerlayout.widget.DrawerLayout>

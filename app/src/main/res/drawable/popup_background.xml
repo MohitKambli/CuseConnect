@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Top Border -->
+    <item android:top="0dp">
+        <shape>
+            <solid android:color="#FFFFFF" />
+            <stroke
+                android:width="2dp"
+                android:color="#000000" />
+        </shape>
+    </item>
+
+    <!-- Left Border -->
+    <item android:left="0dp" android:right="2dp">
+        <shape>
+            <solid android:color="#FFFFFF" />
+        </shape>
+    </item>
+
+    <!-- Right Border -->
+    <item android:right="0dp" android:left="2dp">
+        <shape>
+            <solid android:color="#FFFFFF" />
+        </shape>
+    </item>
+
+    <!-- Bottom Border -->
+    <item android:bottom="2dp">
+        <shape>
+            <solid android:color="#FFFFFF" />
+            <stroke
+                android:width="2dp"
+                android:color="#000000" />
+        </shape>
+    </item>
+</layer-list>

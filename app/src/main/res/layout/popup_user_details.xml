@@ -1,0 +1,28 @@
+<!-- res/layout/popup_user_details.xml -->
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@android:color/white">
+
+    <!-- Display user details here -->
+    <TextView
+        android:id="@+id/userDetailsTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="User Details"
+        android:textSize="16sp"
+        android:textColor="@android:color/black"/>
+
+    <!-- Add other user details views as needed -->
+
+    <!-- Sign out button -->
+    <Button
+        android:id="@+id/signOutButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sign Out"/>
+
+</LinearLayout>
