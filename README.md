@@ -18,9 +18,9 @@ CuseConnect simplifies event planning for students by enabling them to discover 
 Using the Yelp API, this application allows students to explore Syracuse's culinary scene, providing restaurant listings, reviews, menus, and exclusive discounts, making dining choices more informed and enjoyable.
 </p>
 <div style= "float: left;width: 50%;padding: 100px;">
-  <img src="https://github.com/MohitKambli/CuseConnect/tree/main/Screenshots/image_events.jpg" width=400, height=250>
-  <img src="https://github.com/MohitKambli/CuseConnect/tree/main/Screenshots/image_grievances.jpg" width=420, height=250>
-  <img src="https://github.com/MohitKambli/CuseConnect/tree/main/Screenshots/image_restaurants.jpg" width=420, height=250>
+  <img src="https://github.com/MohitKambli/CuseConnect/blob/main/Screenshots/image_events.jpg" width=400, height=250>
+  <img src="https://github.com/MohitKambli/CuseConnect/blob/main/Screenshots/image_grievances.jpg" width=420, height=250>
+  <img src="https://github.com/MohitKambli/CuseConnect/blob/main/Screenshots/image_restaurants.jpg" width=420, height=250>
 </div>
 <h2>Installation Guide</h2>
 <p>Install Android Studio: https://developer.android.com/studio</p>
@@ -41,9 +41,9 @@ Using the Yelp API, this application allows students to explore Syracuse's culin
 <p>https://github.com/MohitKambli/CuseConnect/tree/main/ReportAndPresentation/CuseConnect_FinalPresentation.pdf</p>
 <h2>App Screenshots</h2>
 <div style= "float: left;width: 20%;padding: 100px;">
-  <img src="https://github.com/MohitKambli/CuseConnect/tree/main/Screenshots/S1.jpg" width=250 height=500>
-  <img src="https://github.com/MohitKambli/CuseConnect/tree/main/Screenshots/S2.jpg" width=250 height=500>
-  <img src="https://github.com/MohitKambli/CuseConnect/tree/main/Screenshots/S3.jpg" width=250 height=500>
-  <img src="https://github.com/MohitKambli/CuseConnect/tree/main/Screenshots/S4.jpg" width=250 height=500>
-  <img src="https://github.com/MohitKambli/CuseConnect/tree/main/Screenshots/S5.jpg" width=250 height=500>
+  <img src="https://github.com/MohitKambli/CuseConnect/blob/main/Screenshots/S1.jpg" width=250 height=500>
+  <img src="https://github.com/MohitKambli/CuseConnect/blob/main/Screenshots/S2.jpg" width=250 height=500>
+  <img src="https://github.com/MohitKambli/CuseConnect/blob/main/Screenshots/S3.jpg" width=250 height=500>
+  <img src="https://github.com/MohitKambli/CuseConnect/blob/main/Screenshots/S4.jpg" width=250 height=500>
+  <img src="https://github.com/MohitKambli/CuseConnect/blob/main/Screenshots/S5.jpg" width=250 height=500>
 </div>
