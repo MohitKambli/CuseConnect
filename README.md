@@ -16,16 +16,14 @@ This app serves as a versatile campus companion, offering three key functionalit
 CuseConnect streamlines grievance reporting for students encountering issues, offering a straightforward process to report concerns, attach necessary details (browse/capture images), and receive real-time updates as the app ensures swift acknowledgment and resolution.
 From an administrative perspective, CuseConnect provides a centralized dashboard for managing grievances, facilitating timely responses and efficient communication with students, ultimately fostering a more engaged and satisfied campus community.
 CuseConnect provides users with timely updates on grievance reporting, ensuring they're consistently updated on the progress towards resolution.
+<img src="https://github.com/MohitKambli/CuseConnect/blob/main/Screenshots/image_grievances.jpg" width=420, height=250>
 <h3>Event Discovery</h3>
 CuseConnect simplifies event planning for students by enabling them to discover events and purchase tickets via Ticketmaster to coordinate outings with friends, ensuring they never miss out on exciting events.
+  <img src="https://github.com/MohitKambli/CuseConnect/blob/main/Screenshots/image_events.jpg" width=400, height=250>
 <h3>Dining Discovery</h3>
 Using the Yelp API, this application allows students to explore Syracuse's culinary scene, providing restaurant listings, reviews, menus, and exclusive discounts, making dining choices more informed and enjoyable.
+<img src="https://github.com/MohitKambli/CuseConnect/blob/main/Screenshots/image_restaurants.jpg" width=420, height=250>
 </p>
-<div style= "float: left;width: 50%;padding: 100px;">
-  <img src="https://github.com/MohitKambli/CuseConnect/blob/main/Screenshots/image_events.jpg" width=400, height=250>
-  <img src="https://github.com/MohitKambli/CuseConnect/blob/main/Screenshots/image_grievances.jpg" width=420, height=250>
-  <img src="https://github.com/MohitKambli/CuseConnect/blob/main/Screenshots/image_restaurants.jpg" width=420, height=250>
-</div>
 <h2>Installation Guide</h2>
 <p>Install Android Studio: https://developer.android.com/studio</p>
 <h2>Configuration</h2>
