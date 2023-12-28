@@ -8,6 +8,10 @@ This app serves as a versatile campus companion, offering three key functionalit
 <li>Event Discovery</li>
 <li>Dining Options</li>
 </ul>
+<div style= "float: left;width: 20%;padding: 100px;">
+  <img src="https://github.com/MohitKambli/CuseConnect/blob/main/Screenshots/S6.jpg" width=400, height=250>
+  <img src="https://github.com/MohitKambli/CuseConnect/blob/main/Screenshots/S7.png" width=400, height=250>
+</div>
 <h3>Grievance Reporting</h3>
 CuseConnect streamlines grievance reporting for students encountering issues, offering a straightforward process to report concerns, attach necessary details (browse/capture images), and receive real-time updates as the app ensures swift acknowledgment and resolution.
 From an administrative perspective, CuseConnect provides a centralized dashboard for managing grievances, facilitating timely responses and efficient communication with students, ultimately fostering a more engaged and satisfied campus community.
