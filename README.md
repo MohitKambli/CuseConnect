@@ -33,12 +33,20 @@ Using the Yelp API, this application allows students to explore Syracuse's culin
   <li>hexcolor</li>
 </ul>
 <h2>APK Download Link</h2>
+<<<<<<< HEAD
 <p>https://github.com/MohitKambli/Textify/blob/main/assets/apk/app-release.apk</p>
+=======
+<p>https://github.com/MohitKambli/CuseConnect/blob/main/APK/CuseConnect.apk</p>
+<h2>Project Report</h2>
+<p>https://github.com/MohitKambli/CuseConnect/blob/main/ReportAndPresentation/CuseConnect_ProjectReport.pdf</p>
+<h2>Project Presentation</h2>
+<p>https://github.com/MohitKambli/CuseConnect/blob/main/ReportAndPresentation/CuseConnect_FinalPresentation.pdf</p>
+>>>>>>> 150724d (Updated Readme and APK)
 <h2>App Screenshots</h2>
 <div style= "float: left;width: 20%;padding: 100px;">
-  <img src="https://github.com/MohitKambli/Textify/blob/main/assets/screenshots/S1.jpg" width=250 height=500>
-  <img src="https://github.com/MohitKambli/Textify/blob/main/assets/screenshots/S2.jpg" width=250 height=500>
-  <img src="https://github.com/MohitKambli/Textify/blob/main/assets/screenshots/S3.jpg" width=250 height=500>
-  <img src="https://github.com/MohitKambli/Textify/blob/main/assets/screenshots/S4.jpg" width=250 height=500>
-  <img src="https://github.com/MohitKambli/Textify/blob/main/assets/screenshots/S5.jpg" width=250 height=500>
+  <img src="https://github.com/MohitKambli/CuseConnect/Screenshots/S1.jpg" width=250 height=500>
+  <img src="https://github.com/MohitKambli/CuseConnect/Screenshots/S2.jpg" width=250 height=500>
+  <img src="https://github.com/MohitKambli/CuseConnect/Screenshots/S3.jpg" width=250 height=500>
+  <img src="https://github.com/MohitKambli/CuseConnect/Screenshots/S4.jpg" width=250 height=500>
+  <img src="https://github.com/MohitKambli/CuseConnect/Screenshots/S5.jpg" width=250 height=500>
 </div>
