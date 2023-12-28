@@ -34,6 +34,7 @@ Using the Yelp API, this application allows students to explore Syracuse's culin
 </ul>
 <h2>APK Download Link</h2>
 <<<<<<< HEAD
+<<<<<<< HEAD
 <p>https://github.com/MohitKambli/Textify/blob/main/assets/apk/app-release.apk</p>
 =======
 <p>https://github.com/MohitKambli/CuseConnect/blob/main/APK/CuseConnect.apk</p>
@@ -49,4 +50,14 @@ Using the Yelp API, this application allows students to explore Syracuse's culin
   <img src="https://github.com/MohitKambli/CuseConnect/Screenshots/S3.jpg" width=250 height=500>
   <img src="https://github.com/MohitKambli/CuseConnect/Screenshots/S4.jpg" width=250 height=500>
   <img src="https://github.com/MohitKambli/CuseConnect/Screenshots/S5.jpg" width=250 height=500>
+=======
+<p>https://github.com/MohitKambli/Textify/blob/main/assets/apk/app-release.apk</p>
+<h2>App Screenshots</h2>
+<div style= "float: left;width: 20%;padding: 100px;">
+  <img src="https://github.com/MohitKambli/Textify/blob/main/assets/screenshots/S1.jpg" width=250 height=500>
+  <img src="https://github.com/MohitKambli/Textify/blob/main/assets/screenshots/S2.jpg" width=250 height=500>
+  <img src="https://github.com/MohitKambli/Textify/blob/main/assets/screenshots/S3.jpg" width=250 height=500>
+  <img src="https://github.com/MohitKambli/Textify/blob/main/assets/screenshots/S4.jpg" width=250 height=500>
+  <img src="https://github.com/MohitKambli/Textify/blob/main/assets/screenshots/S5.jpg" width=250 height=500>
+>>>>>>> 73caaba336b4b9793a99eafb8b8847ff2fbcae51
 </div>
