@@ -41,9 +41,9 @@ Using the Yelp API, this application allows students to explore Syracuse's culin
 <p>https://github.com/MohitKambli/CuseConnect/tree/main/ReportAndPresentation/CuseConnect_FinalPresentation.pdf</p>
 <h2>App Screenshots</h2>
 <div style= "float: left;width: 20%;padding: 100px;">
-  <img src="https://github.com/MohitKambli/CuseConnect/blob/main/Screenshots/S1.jpg" width=250 height=500>
-  <img src="https://github.com/MohitKambli/CuseConnect/blob/main/Screenshots/S2.jpg" width=250 height=500>
-  <img src="https://github.com/MohitKambli/CuseConnect/blob/main/Screenshots/S3.jpg" width=250 height=500>
-  <img src="https://github.com/MohitKambli/CuseConnect/blob/main/Screenshots/S4.jpg" width=250 height=500>
-  <img src="https://github.com/MohitKambli/CuseConnect/blob/main/Screenshots/S5.jpg" width=250 height=500>
+  <img src="https://github.com/MohitKambli/CuseConnect/blob/main/Screenshots/S1.png" width=500 height=250>
+  <img src="https://github.com/MohitKambli/CuseConnect/blob/main/Screenshots/S2.png" width=500 height=250>
+  <img src="https://github.com/MohitKambli/CuseConnect/blob/main/Screenshots/S3.png" width=500 height=250>
+  <img src="https://github.com/MohitKambli/CuseConnect/blob/main/Screenshots/S4.png" width=500 height=250>
+  <img src="https://github.com/MohitKambli/CuseConnect/blob/main/Screenshots/S5.png" width=500 height=250>
 </div>
