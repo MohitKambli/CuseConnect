@@ -26,13 +26,6 @@ Using the Yelp API, this application allows students to explore Syracuse's culin
 <p>Install Android Studio: https://developer.android.com/studio</p>
 <h2>Configuration</h2>
 <p>Configure Firebase: https://firebase.google.com/</p>
-<h2>Dependencies</h2>
-<ul>
-  <li>cupertino_icons</li>
-  <li>http</li>
-  <li>image_picker</li>
-  <li>hexcolor</li>
-</ul>
 <h2>APK Download Link</h2>
 <p>https://github.com/MohitKambli/CuseConnect/tree/main/APK/CuseConnect.apk</p>
 <h2>Project Report</h2>
@@ -41,9 +34,9 @@ Using the Yelp API, this application allows students to explore Syracuse's culin
 <p>https://github.com/MohitKambli/CuseConnect/tree/main/ReportAndPresentation/CuseConnect_FinalPresentation.pdf</p>
 <h2>App Screenshots</h2>
 <div style= "float: left;width: 20%;padding: 100px;">
-  <img src="https://github.com/MohitKambli/CuseConnect/blob/main/Screenshots/S1.png" width=500 height=250>
-  <img src="https://github.com/MohitKambli/CuseConnect/blob/main/Screenshots/S2.png" width=500 height=250>
-  <img src="https://github.com/MohitKambli/CuseConnect/blob/main/Screenshots/S3.png" width=500 height=250>
-  <img src="https://github.com/MohitKambli/CuseConnect/blob/main/Screenshots/S4.png" width=500 height=250>
-  <img src="https://github.com/MohitKambli/CuseConnect/blob/main/Screenshots/S5.png" width=500 height=250>
+  <img src="https://github.com/MohitKambli/CuseConnect/blob/main/Screenshots/S1.png" width=700 height=450>
+  <img src="https://github.com/MohitKambli/CuseConnect/blob/main/Screenshots/S2.png" width=700 height=450>
+  <img src="https://github.com/MohitKambli/CuseConnect/blob/main/Screenshots/S3.png" width=700 height=450>
+  <img src="https://github.com/MohitKambli/CuseConnect/blob/main/Screenshots/S4.png" width=700 height=450>
+  <img src="https://github.com/MohitKambli/CuseConnect/blob/main/Screenshots/S5.png" width=700 height=450>
 </div>
